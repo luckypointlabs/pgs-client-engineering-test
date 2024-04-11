@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "cards-0.png",
+			"image": "cards-0.webp",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1848,
@@ -747,7 +747,7 @@
 			]
 		},
 		{
-			"image": "cards-1.png",
+			"image": "cards-1.webp",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1584,
