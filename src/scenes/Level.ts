@@ -177,8 +177,6 @@ export default class Level extends Phaser.Scene {
         texture = "Ace";
         break;
     }
-
-    // BBSH-505: We should try and pull these cards from an object pool so we aren't just infinitely creating new cards
     return new Card(cardData.suit, val.toString(), texture);
   }
 
